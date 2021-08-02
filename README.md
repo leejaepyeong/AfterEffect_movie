@@ -63,4 +63,15 @@ mp4파일로 보내고 싶다면  adobe media encoder
 오프셋 변화로 시작점 변경 가능
 
 
+텍스트 애니메이션
 
+![image](https://user-images.githubusercontent.com/80494367/127790318-3dfeb1d4-d34a-4d84-8115-60c30b978768.png)
+
+효과 및 사전설정으로 기존 효과 불러오기 가능
+
+
+다른 탬플릿 활용하기
+
+![image](https://user-images.githubusercontent.com/80494367/127790790-1e94608f-8773-4faa-bfc6-533e6a2dc771.png)
+
+ 크게 만질 부분은 왼쪽 창
